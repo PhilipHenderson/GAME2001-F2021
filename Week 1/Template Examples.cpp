@@ -56,7 +56,7 @@ public:
 private:
 	T m_val;
 };
-
+/*
 // Main function
 
 int main()
@@ -69,4 +69,4 @@ int main()
 	cout << "Max (Objects) = " << max_func(TemplateClass<int>(7), TemplateClass<int>(4)).GetVal();
 
 	return 0;
-}
+}*/
